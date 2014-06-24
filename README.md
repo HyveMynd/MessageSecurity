@@ -1,6 +1,9 @@
 Message Security
 ================
 
+University of Utah CS4480 Assignment 3 Spring 2014. 
+
+
 Usage:
 java -jar [-options] [jar-name] [IP address] [port]
 
